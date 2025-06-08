@@ -33,5 +33,5 @@ Forecast your pub's weekly sales and stock using Prophet and Streamlit.
 3. Download the forecasted CSV
 
 **Date Format:** DD/MM/YYYY  
-Download Sample csv 👇🏼
+Download Sample csv 👉 
 [📥 Download Sample CSV](https://raw.githubusercontent.com/renjithasivakumar/ai-inventory-forecast/main/pub_sales_report_full.csv)
