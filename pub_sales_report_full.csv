@@ -1,0 +1,369 @@
+Date,Item,Quantity Sold
+01/03/2025,Chips,44
+02/03/2025,Chips,45
+03/03/2025,Chips,47
+04/03/2025,Chips,45
+05/03/2025,Chips,27
+06/03/2025,Chips,48
+07/03/2025,Chips,45
+08/03/2025,Chips,46
+09/03/2025,Chips,34
+10/03/2025,Chips,39
+11/03/2025,Chips,44
+12/03/2025,Chips,43
+13/03/2025,Chips,31
+14/03/2025,Chips,38
+15/03/2025,Chips,50
+16/03/2025,Chips,39
+17/03/2025,Chips,32
+18/03/2025,Chips,41
+19/03/2025,Chips,28
+20/03/2025,Chips,34
+21/03/2025,Chips,42
+22/03/2025,Chips,34
+23/03/2025,Chips,40
+24/03/2025,Chips,47
+25/03/2025,Chips,40
+26/03/2025,Chips,45
+27/03/2025,Chips,37
+28/03/2025,Chips,25
+29/03/2025,Chips,48
+30/03/2025,Chips,48
+31/03/2025,Chips,32
+01/04/2025,Chips,29
+02/04/2025,Chips,33
+03/04/2025,Chips,36
+04/04/2025,Chips,47
+05/04/2025,Chips,27
+06/04/2025,Chips,27
+07/04/2025,Chips,39
+08/04/2025,Chips,29
+09/04/2025,Chips,38
+10/04/2025,Chips,39
+11/04/2025,Chips,37
+12/04/2025,Chips,44
+13/04/2025,Chips,31
+14/04/2025,Chips,28
+15/04/2025,Chips,43
+16/04/2025,Chips,37
+17/04/2025,Chips,36
+18/04/2025,Chips,35
+19/04/2025,Chips,49
+20/04/2025,Chips,49
+21/04/2025,Chips,33
+22/04/2025,Chips,32
+23/04/2025,Chips,43
+24/04/2025,Chips,39
+25/04/2025,Chips,44
+26/04/2025,Chips,44
+27/04/2025,Chips,27
+28/04/2025,Chips,48
+29/04/2025,Chips,26
+30/04/2025,Chips,25
+01/05/2025,Chips,26
+02/05/2025,Chips,30
+03/05/2025,Chips,35
+04/05/2025,Chips,30
+05/05/2025,Chips,26
+06/05/2025,Chips,40
+07/05/2025,Chips,30
+08/05/2025,Chips,28
+09/05/2025,Chips,43
+10/05/2025,Chips,33
+11/05/2025,Chips,42
+12/05/2025,Chips,49
+13/05/2025,Chips,34
+14/05/2025,Chips,40
+15/05/2025,Chips,44
+16/05/2025,Chips,40
+17/05/2025,Chips,47
+18/05/2025,Chips,43
+19/05/2025,Chips,44
+20/05/2025,Chips,25
+21/05/2025,Chips,41
+22/05/2025,Chips,32
+23/05/2025,Chips,49
+24/05/2025,Chips,42
+25/05/2025,Chips,46
+26/05/2025,Chips,33
+27/05/2025,Chips,25
+28/05/2025,Chips,44
+29/05/2025,Chips,27
+30/05/2025,Chips,36
+31/05/2025,Chips,46
+01/03/2025,Coke,46
+02/03/2025,Coke,47
+03/03/2025,Coke,58
+04/03/2025,Coke,63
+05/03/2025,Coke,63
+06/03/2025,Coke,41
+07/03/2025,Coke,41
+08/03/2025,Coke,65
+09/03/2025,Coke,56
+10/03/2025,Coke,69
+11/03/2025,Coke,62
+12/03/2025,Coke,44
+13/03/2025,Coke,48
+14/03/2025,Coke,64
+15/03/2025,Coke,48
+16/03/2025,Coke,59
+17/03/2025,Coke,68
+18/03/2025,Coke,53
+19/03/2025,Coke,47
+20/03/2025,Coke,61
+21/03/2025,Coke,68
+22/03/2025,Coke,41
+23/03/2025,Coke,70
+24/03/2025,Coke,53
+25/03/2025,Coke,60
+26/03/2025,Coke,54
+27/03/2025,Coke,64
+28/03/2025,Coke,52
+29/03/2025,Coke,48
+30/03/2025,Coke,47
+31/03/2025,Coke,56
+01/04/2025,Coke,40
+02/04/2025,Coke,65
+03/04/2025,Coke,47
+04/04/2025,Coke,55
+05/04/2025,Coke,44
+06/04/2025,Coke,61
+07/04/2025,Coke,44
+08/04/2025,Coke,40
+09/04/2025,Coke,70
+10/04/2025,Coke,54
+11/04/2025,Coke,67
+12/04/2025,Coke,56
+13/04/2025,Coke,62
+14/04/2025,Coke,50
+15/04/2025,Coke,66
+16/04/2025,Coke,49
+17/04/2025,Coke,45
+18/04/2025,Coke,69
+19/04/2025,Coke,67
+20/04/2025,Coke,40
+21/04/2025,Coke,52
+22/04/2025,Coke,45
+23/04/2025,Coke,40
+24/04/2025,Coke,63
+25/04/2025,Coke,48
+26/04/2025,Coke,65
+27/04/2025,Coke,41
+28/04/2025,Coke,56
+29/04/2025,Coke,41
+30/04/2025,Coke,44
+01/05/2025,Coke,69
+02/05/2025,Coke,65
+03/05/2025,Coke,62
+04/05/2025,Coke,70
+05/05/2025,Coke,59
+06/05/2025,Coke,50
+07/05/2025,Coke,48
+08/05/2025,Coke,59
+09/05/2025,Coke,42
+10/05/2025,Coke,59
+11/05/2025,Coke,46
+12/05/2025,Coke,50
+13/05/2025,Coke,62
+14/05/2025,Coke,67
+15/05/2025,Coke,64
+16/05/2025,Coke,40
+17/05/2025,Coke,44
+18/05/2025,Coke,42
+19/05/2025,Coke,42
+20/05/2025,Coke,63
+21/05/2025,Coke,50
+22/05/2025,Coke,45
+23/05/2025,Coke,55
+24/05/2025,Coke,68
+25/05/2025,Coke,41
+26/05/2025,Coke,68
+27/05/2025,Coke,43
+28/05/2025,Coke,55
+29/05/2025,Coke,46
+30/05/2025,Coke,55
+31/05/2025,Coke,62
+01/03/2025,Dessert,29
+02/03/2025,Dessert,21
+03/03/2025,Dessert,25
+04/03/2025,Dessert,18
+05/03/2025,Dessert,36
+06/03/2025,Dessert,26
+07/03/2025,Dessert,15
+08/03/2025,Dessert,26
+09/03/2025,Dessert,30
+10/03/2025,Dessert,33
+11/03/2025,Dessert,39
+12/03/2025,Dessert,21
+13/03/2025,Dessert,32
+14/03/2025,Dessert,32
+15/03/2025,Dessert,35
+16/03/2025,Dessert,21
+17/03/2025,Dessert,29
+18/03/2025,Dessert,18
+19/03/2025,Dessert,16
+20/03/2025,Dessert,18
+21/03/2025,Dessert,40
+22/03/2025,Dessert,18
+23/03/2025,Dessert,29
+24/03/2025,Dessert,39
+25/03/2025,Dessert,27
+26/03/2025,Dessert,38
+27/03/2025,Dessert,23
+28/03/2025,Dessert,39
+29/03/2025,Dessert,15
+30/03/2025,Dessert,25
+31/03/2025,Dessert,17
+01/04/2025,Dessert,24
+02/04/2025,Dessert,21
+03/04/2025,Dessert,16
+04/04/2025,Dessert,37
+05/04/2025,Dessert,26
+06/04/2025,Dessert,15
+07/04/2025,Dessert,28
+08/04/2025,Dessert,40
+09/04/2025,Dessert,21
+10/04/2025,Dessert,40
+11/04/2025,Dessert,33
+12/04/2025,Dessert,18
+13/04/2025,Dessert,27
+14/04/2025,Dessert,27
+15/04/2025,Dessert,36
+16/04/2025,Dessert,39
+17/04/2025,Dessert,26
+18/04/2025,Dessert,40
+19/04/2025,Dessert,21
+20/04/2025,Dessert,39
+21/04/2025,Dessert,17
+22/04/2025,Dessert,23
+23/04/2025,Dessert,24
+24/04/2025,Dessert,36
+25/04/2025,Dessert,31
+26/04/2025,Dessert,26
+27/04/2025,Dessert,31
+28/04/2025,Dessert,31
+29/04/2025,Dessert,36
+30/04/2025,Dessert,15
+01/05/2025,Dessert,35
+02/05/2025,Dessert,37
+03/05/2025,Dessert,38
+04/05/2025,Dessert,38
+05/05/2025,Dessert,20
+06/05/2025,Dessert,30
+07/05/2025,Dessert,30
+08/05/2025,Dessert,33
+09/05/2025,Dessert,34
+10/05/2025,Dessert,15
+11/05/2025,Dessert,22
+12/05/2025,Dessert,39
+13/05/2025,Dessert,17
+14/05/2025,Dessert,40
+15/05/2025,Dessert,31
+16/05/2025,Dessert,26
+17/05/2025,Dessert,23
+18/05/2025,Dessert,30
+19/05/2025,Dessert,38
+20/05/2025,Dessert,38
+21/05/2025,Dessert,22
+22/05/2025,Dessert,34
+23/05/2025,Dessert,17
+24/05/2025,Dessert,28
+25/05/2025,Dessert,17
+26/05/2025,Dessert,18
+27/05/2025,Dessert,28
+28/05/2025,Dessert,38
+29/05/2025,Dessert,31
+30/05/2025,Dessert,33
+31/05/2025,Dessert,28
+01/03/2025,MainCourse Meal,20
+02/03/2025,MainCourse Meal,35
+03/03/2025,MainCourse Meal,20
+04/03/2025,MainCourse Meal,17
+05/03/2025,MainCourse Meal,30
+06/03/2025,MainCourse Meal,15
+07/03/2025,MainCourse Meal,21
+08/03/2025,MainCourse Meal,34
+09/03/2025,MainCourse Meal,24
+10/03/2025,MainCourse Meal,21
+11/03/2025,MainCourse Meal,12
+12/03/2025,MainCourse Meal,30
+13/03/2025,MainCourse Meal,13
+14/03/2025,MainCourse Meal,35
+15/03/2025,MainCourse Meal,11
+16/03/2025,MainCourse Meal,21
+17/03/2025,MainCourse Meal,12
+18/03/2025,MainCourse Meal,27
+19/03/2025,MainCourse Meal,15
+20/03/2025,MainCourse Meal,31
+21/03/2025,MainCourse Meal,21
+22/03/2025,MainCourse Meal,23
+23/03/2025,MainCourse Meal,17
+24/03/2025,MainCourse Meal,17
+25/03/2025,MainCourse Meal,27
+26/03/2025,MainCourse Meal,35
+27/03/2025,MainCourse Meal,24
+28/03/2025,MainCourse Meal,16
+29/03/2025,MainCourse Meal,21
+30/03/2025,MainCourse Meal,28
+31/03/2025,MainCourse Meal,12
+01/04/2025,MainCourse Meal,16
+02/04/2025,MainCourse Meal,18
+03/04/2025,MainCourse Meal,10
+04/04/2025,MainCourse Meal,33
+05/04/2025,MainCourse Meal,17
+06/04/2025,MainCourse Meal,12
+07/04/2025,MainCourse Meal,12
+08/04/2025,MainCourse Meal,32
+09/04/2025,MainCourse Meal,18
+10/04/2025,MainCourse Meal,19
+11/04/2025,MainCourse Meal,16
+12/04/2025,MainCourse Meal,14
+13/04/2025,MainCourse Meal,24
+14/04/2025,MainCourse Meal,16
+15/04/2025,MainCourse Meal,11
+16/04/2025,MainCourse Meal,30
+17/04/2025,MainCourse Meal,29
+18/04/2025,MainCourse Meal,32
+19/04/2025,MainCourse Meal,10
+20/04/2025,MainCourse Meal,29
+21/04/2025,MainCourse Meal,16
+22/04/2025,MainCourse Meal,14
+23/04/2025,MainCourse Meal,21
+24/04/2025,MainCourse Meal,33
+25/04/2025,MainCourse Meal,26
+26/04/2025,MainCourse Meal,16
+27/04/2025,MainCourse Meal,14
+28/04/2025,MainCourse Meal,26
+29/04/2025,MainCourse Meal,32
+30/04/2025,MainCourse Meal,28
+01/05/2025,MainCourse Meal,21
+02/05/2025,MainCourse Meal,13
+03/05/2025,MainCourse Meal,26
+04/05/2025,MainCourse Meal,14
+05/05/2025,MainCourse Meal,31
+06/05/2025,MainCourse Meal,10
+07/05/2025,MainCourse Meal,12
+08/05/2025,MainCourse Meal,35
+09/05/2025,MainCourse Meal,16
+10/05/2025,MainCourse Meal,17
+11/05/2025,MainCourse Meal,10
+12/05/2025,MainCourse Meal,27
+13/05/2025,MainCourse Meal,16
+14/05/2025,MainCourse Meal,25
+15/05/2025,MainCourse Meal,11
+16/05/2025,MainCourse Meal,14
+17/05/2025,MainCourse Meal,18
+18/05/2025,MainCourse Meal,25
+19/05/2025,MainCourse Meal,31
+20/05/2025,MainCourse Meal,29
+21/05/2025,MainCourse Meal,13
+22/05/2025,MainCourse Meal,12
+23/05/2025,MainCourse Meal,34
+24/05/2025,MainCourse Meal,27
+25/05/2025,MainCourse Meal,25
+26/05/2025,MainCourse Meal,10
+27/05/2025,MainCourse Meal,30
+28/05/2025,MainCourse Meal,17
+29/05/2025,MainCourse Meal,10
+30/05/2025,MainCourse Meal,31
+31/05/2025,MainCourse Meal,15
