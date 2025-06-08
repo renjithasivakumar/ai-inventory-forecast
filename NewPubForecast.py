@@ -2,9 +2,10 @@ import pandas as pd
 from prophet import Prophet
 import os
 
+
 def forecast_items(df):
     df['Date'] = pd.to_datetime(df['Date'], dayfirst=True)
-    df_grouped = df.groupby(['Date', 'Item']).sum().reset_index()
+    df_grouped = df.groupby(['Date', 'Item'])['Quantity Sold'].sum().reset_index()
 
     forecast_results = []
     items = df_grouped['Item'].unique()
@@ -12,7 +13,6 @@ def forecast_items(df):
     for item in items:
         item_df = df_grouped[df_grouped['Item'] == item][['Date', 'Quantity Sold']]
         item_df = item_df.rename(columns={'Date': 'ds', 'Quantity Sold': 'y'})
-
 
         if len(item_df) < 10:
             continue
@@ -23,8 +23,17 @@ def forecast_items(df):
         future = model.make_future_dataframe(periods=14)
         forecast = model.predict(future)
 
-        forecast['Item'] = item
-        forecast_results.append(forecast[['ds', 'yhat', 'Item']])
+        # Fix: Ensure both sides are datetime with no time component
+        last_date = item_df['ds'].max().normalize()
+        forecast['ds'] = forecast['ds'].dt.normalize()
+
+        future_forecast = forecast[forecast['ds'] > last_date].copy()
+        future_forecast['Item'] = item
+
+        forecast_results.append(future_forecast[['ds', 'yhat', 'Item']])
+
+    if not forecast_results:
+        return pd.DataFrame(columns=['Date', 'Predicted Quantity', 'Item'])
 
     forecast_df = pd.concat(forecast_results)
     forecast_df.columns = ['Date', 'Predicted Quantity', 'Item']
@@ -35,7 +44,7 @@ def forecast_items(df):
 
 # ==== ⬇️ Original file-based forecast logic still works ====
 if __name__ == "__main__":
-    file_path = r'C:\Users\user\PycharmProjects\PythonProject2\sales_data.csv'
+    file_path = r'C:\Users\user\PycharmProjects\PythonProject2\pub_sales_report_full.csv'
     print("File exists?", os.path.exists(file_path))
 
     if os.path.exists(file_path):
