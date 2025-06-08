@@ -4,7 +4,7 @@
 This project predicts inventory requirements for pubs using AI models.
 
 ## Features
-- Forecast beer stock levels based on historical sales data
+- Forecast of stock levels based on historical sales data
 - Interactive visualization using Streamlit
 
 ## How to run locally
