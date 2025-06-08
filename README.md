@@ -21,3 +21,15 @@ The app is hosted on Streamlit Cloud for easy sharing.
 MIT License
 Make sure to replace your_app_file.py with your actual main Python script filename.
 
+## 📊 Pub Sales Forecasting App
+
+Forecast your pub's weekly sales and stock using Prophet and Streamlit.
+
+👉 [Click here to use the app] https://pubforecast.streamlit.app/
+
+### How to Use:
+1. Upload your sales CSV with fields 👉 (Date, Item, Quantity Sold)
+2. View forecast chart and predicted quantities
+3. Download the forecasted CSV
+
+**Date Format:** DD/MM/YYYY  
